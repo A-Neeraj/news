@@ -1,0 +1,3 @@
+class ConstantVariables {
+  String uid;
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275566441835",
+    "project_id": "news-622b5",
+    "storage_bucket": "news-622b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275566441835:android:cd17ebab1817446403c82e",
+        "android_client_info": {
+          "package_name": "com.neeraj.all_in_one_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275566441835-kkjllqcae482is1gm9pvn78t3tk8tqg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgxwrQzEtHKrWimGIGgthSsFRZ2Xl5tMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275566441835-kkjllqcae482is1gm9pvn78t3tk8tqg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
